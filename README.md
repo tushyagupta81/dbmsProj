@@ -1,10 +1,10 @@
 # DBMS Project
  DBMS Project from 3rd semester
 
-![HomePage]()
-![ListingDetails]()
-![CreateListings]()
-![Transactions]()
+![HomePage](https://github.com/tushyagupta81/dbmsProj/blob/main/images/HomePage.png)
+![ListingDetails](https://github.com/tushyagupta81/dbmsProj/blob/main/images/ListingDetails.png)
+![CreateListings](https://github.com/tushyagupta81/dbmsProj/blob/main/images/CreateListing.png)
+![Transactions](https://github.com/tushyagupta81/dbmsProj/blob/main/images/Transactions.png)
 
 ## Requirements
 - node v23.3.0
